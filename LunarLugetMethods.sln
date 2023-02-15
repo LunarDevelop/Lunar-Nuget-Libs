@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarUnitTests", "LunarUnit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarLogging", "LunarLogging\LunarLogging.csproj", "{03A4CAD1-3D61-402D-88F0-BEC9DC6463B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoEntityDbService", "MongoEntityDbService\MongoEntityDbService.csproj", "{B00BA179-92F9-440B-B11E-9E99990F6A72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
