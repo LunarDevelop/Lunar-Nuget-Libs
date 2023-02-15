@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarExtension", "LunarExte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarUnitTests", "LunarUnitTests\LunarUnitTests.csproj", "{90D56BB2-5C8E-474C-B2BC-FB08BEE137BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarLogging", "LunarLogging\LunarLogging.csproj", "{03A4CAD1-3D61-402D-88F0-BEC9DC6463B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,13 @@ Global
 		{90D56BB2-5C8E-474C-B2BC-FB08BEE137BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90D56BB2-5C8E-474C-B2BC-FB08BEE137BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90D56BB2-5C8E-474C-B2BC-FB08BEE137BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A4CAD1-3D61-402D-88F0-BEC9DC6463B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A4CAD1-3D61-402D-88F0-BEC9DC6463B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A4CAD1-3D61-402D-88F0-BEC9DC6463B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A4CAD1-3D61-402D-88F0-BEC9DC6463B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00BA179-92F9-440B-B11E-9E99990F6A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00BA179-92F9-440B-B11E-9E99990F6A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00BA179-92F9-440B-B11E-9E99990F6A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00BA179-92F9-440B-B11E-9E99990F6A72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
