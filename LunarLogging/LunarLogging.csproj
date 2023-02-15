@@ -6,6 +6,15 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <PropertyGroup>
+        <PackageId>LunarLogging</PackageId>
+        <Version>1.0.0</Version>
+        <Description>Logging method used by Solar</Description>
+        <Authors>Solar M.</Authors>
+        <Company>Lunar Development</Company>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
     <ItemGroup>
       <PackageReference Include="NLog" Version="5.1.1" />
     </ItemGroup>
